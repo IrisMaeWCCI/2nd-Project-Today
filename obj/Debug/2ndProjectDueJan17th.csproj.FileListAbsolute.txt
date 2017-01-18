@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\bin\Debug\2ndProjectDueJan17th.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\bin\Debug\2ndProjectDueJan17th.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\bin\Debug\2ndProjectDueJan17th.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\obj\Debug\2ndProjectDueJan17th.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\obj\Debug\2ndProjectDueJan17th.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2ndProjectDueJan17th\2ndProjectDueJan17th\obj\Debug\2ndProjectDueJan17th.pdb
